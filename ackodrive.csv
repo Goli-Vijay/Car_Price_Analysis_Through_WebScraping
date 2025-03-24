@@ -1,0 +1,527 @@
+,Brand,Model,Type,Seats,Price,Fuel,Transmission,Location
+0,Tata,Nexon,SUV,5 Seater,1063000,Petrol,Manual,Hyderabad
+1,Tata,Punch,SUV,5 Seater,990000,Petrol,Manual,Hyderabad
+2,Hyundai,Grand i10 Nios,Hatchback,5 Seater,897000,Petrol,Manual,Hyderabad
+3,Tata,Curvv EV,SUV,5 Seater,2123000,Electric,Automatic,Hyderabad
+4,Hyundai,Aura,Sedan,5 Seater,982000,Petrol,Manual,Hyderabad
+5,Tata,Altroz,Hatchback,5 Seater,1013000,CNG,Manual,Hyderabad
+6,Hyundai,Venue,SUV,5 Seater,1540000,Diesel,Manual,Hyderabad
+7,Hyundai,Creta,SUV,5 Seater,1522000,Petrol,Manual,Hyderabad
+8,Hyundai,i20 N Line,Hatchback,5 Seater,1394000,Petrol,Manual,Hyderabad
+9,Honda,Amaze (2021-2024),Sedan,5 Seater,1034000,Petrol,Automatic,Hyderabad
+10,Honda,City,Sedan,5 Seater,1577000,Petrol,Manual,Hyderabad
+11,Maruti,Suzuki XL6,SUV,6 Seater,1571000,CNG,Manual,Hyderabad
+12,Maruti,Suzuki Ciaz,Sedan,5 Seater,1157000,Petrol,Manual,Hyderabad
+13,Tata,Nexon EV,SUV,5 Seater,1811000,Electric,Automatic,Hyderabad
+14,Maruti,Suzuki New Grand Vitara,SUV,5 Seater,1518000,Petrol,Manual,Hyderabad
+15,Mahindra,Scorpio-N,SUV,7 Seater,1812000,Diesel,Manual,Hyderabad
+16,Mahindra,XUV700,SUV,7 Seater,2290000,Diesel,Manual,Hyderabad
+17,Toyota,Urban Cruiser Hyryder,SUV,5 Seater,1795000,Petrol,Manual,Hyderabad
+18,Toyota,Glanza,Hatchback,5 Seater,1002999,Petrol,Automatic,Hyderabad
+19,MG,ZS EV,SUV,5 Seater,2669000,Electric,Automatic,Hyderabad
+20,MG,Hector Plus,SUV,7 Seater,2155000,Diesel,Manual,Hyderabad
+21,MG,Hector,SUV,5 Seater,2048999,Petrol,Manual,Hyderabad
+22,MG,Comet EV,Hatchback,4 Seater,864000,Electric,Automatic,Hyderabad
+23,MG,Astor,SUV,5 Seater,1200000,Petrol,Manual,Hyderabad
+24,Kia,Sonet,SUV,5 Seater,1905000,Diesel,Automatic,Hyderabad
+25,Kia,Seltos,SUV,5 Seater,1923000,Petrol,Manual,Hyderabad
+26,Kia,Carens,SUV,7 Seater,1378000,Petrol,Manual,Hyderabad
+27,Toyota,Rumion,SUV,7 Seater,1300000,Petrol,Manual,Hyderabad
+28,Skoda,Slavia,Sedan,5 Seater,1960000,Petrol,Manual,Hyderabad
+29,Skoda,Kushaq,SUV,5 Seater,1353000,Petrol,Manual,Hyderabad
+30,Honda,Elevate,SUV,5 Seater,2028000,Petrol,Automatic,Hyderabad
+31,Hyundai,Exter,SUV,5 Seater,794000,Petrol,Manual,Hyderabad
+32,Maruti,Suzuki Fronx,SUV,5 Seater,1054000,Petrol,Manual,Hyderabad
+33,Hyundai,Verna,Sedan,5 Seater,1827000,Petrol,Manual,Hyderabad
+34,Tata,Harrier,SUV,5 Seater,3220000,Diesel,Automatic,Hyderabad
+35,Maruti,Suzuki Baleno,Hatchback,5 Seater,972000,Petrol,Automatic,Hyderabad
+36,Maruti,Suzuki Celerio,Hatchback,5 Seater,714000,Petrol,Manual,Hyderabad
+37,Tata,Punch EV,SUV,5 Seater,1361000,Electric,Automatic,Hyderabad
+38,Hyundai,i20,Hatchback,5 Seater,941000,Petrol,Manual,Hyderabad
+39,Mahindra,XUV 3XO,SUV,5 Seater,1374000,Diesel,Manual,Hyderabad
+40,Maruti,Suzuki Alto K10,Hatchback,5 Seater,656000,Petrol,Manual,Hyderabad
+41,Tata,Curvv,SUV,5 Seater,1459000,Petrol,Manual,Hyderabad
+42,Maruti,Suzuki S-Presso,SUV,5 Seater,675000,Petrol,Manual,Hyderabad
+43,Maruti,Suzuki Swift,Hatchback,5 Seater,1095000,Petrol,Manual,Hyderabad
+44,Maruti,Suzuki Wagon R,Hatchback,5 Seater,770000,Petrol,Manual,Hyderabad
+45,Hyundai,Creta N Line,SUV,5 Seater,2527000,Petrol,Automatic,Hyderabad
+46,Toyota,Urban Cruiser Taisor,SUV,5 Seater,1080000,Petrol,Manual,Hyderabad
+47,Tata,Safari,SUV,7 Seater,3265999,Diesel,Automatic,Hyderabad
+48,Mahindra,Thar,SUV,4 Seater,2002000,Diesel,Manual,Hyderabad
+49,Hyundai,Alcazar,SUV,6 Seater,2600000,Petrol,Automatic,Hyderabad
+50,MG,Windsor EV,SUV,5 Seater,1510000,Electric,Automatic,Hyderabad
+51,Nissan,Magnite,SUV,5 Seater,805000,Petrol,Automatic,Hyderabad
+52,Maruti,Suzuki Dzire,Sedan,5 Seater,1082000,Petrol,Manual,Hyderabad
+53,Tata,Nexon,SUV,5 Seater,1036999,Petrol,Manual,Mumbai
+54,Maruti,Suzuki Baleno,Hatchback,5 Seater,969999,CNG,Manual,Mumbai
+55,Tata,Punch,SUV,5 Seater,729000,Petrol,Manual,Mumbai
+56,Maruti,Suzuki Swift,Hatchback,5 Seater,857000,Petrol,Manual,Mumbai
+57,Hyundai,Grand i10 Nios,Hatchback,5 Seater,948000,Petrol,Automatic,Mumbai
+58,Hyundai,Aura,Sedan,5 Seater,959000,CNG,Manual,Mumbai
+59,Maruti,Suzuki Wagon R,Hatchback,5 Seater,759000,CNG,Manual,Mumbai
+60,Tata,Altroz,Hatchback,5 Seater,780000,Petrol,Manual,Mumbai
+61,Renault,Kiger,SUV,5 Seater,1043000,Petrol,Manual,Mumbai
+62,Hyundai,Venue,SUV,5 Seater,1240000,Petrol,Manual,Mumbai
+63,Toyota,Glanza,Hatchback,5 Seater,859000,Petrol,Manual,Mumbai
+64,Renault,Triber,MPV,7 Seater,717000,Petrol,Manual,Mumbai
+65,Maruti,Suzuki Celerio,Hatchback,5 Seater,679000,Petrol,Manual,Mumbai
+66,Hyundai,Creta,SUV,5 Seater,1816000,Diesel,Manual,Mumbai
+67,Maruti,Suzuki Dzire,Sedan,5 Seater,816000,Petrol,Manual,Mumbai
+68,Renault,Kwid,Hatchback,5 Seater,600000,Petrol,Manual,Mumbai
+69,Maruti,Suzuki XL6,SUV,6 Seater,1404000,Petrol,Manual,Mumbai
+70,Honda,Amaze,Sedan,5 Seater,1091000,Petrol,Manual,Mumbai
+71,Mahindra,XUV700,SUV,7 Seater,2036000,Petrol,Manual,Mumbai
+72,Honda,City,Sedan,5 Seater,1714000,Petrol,Automatic,Mumbai
+73,Hyundai,i20 N Line,Hatchback,5 Seater,1476000,Petrol,Automatic,Mumbai
+74,Mahindra,Scorpio-N,SUV,7 Seater,1962000,Diesel,Manual,Mumbai
+75,Tata,Nexon EV,SUV,5 Seater,1573000,Electric,Automatic,Mumbai
+76,Hyundai,Venue N-Line,SUV,5 Seater,1642000,Petrol,Automatic,Mumbai
+77,Maruti,Suzuki New Grand Vitara,SUV,5 Seater,1730999,CNG,Manual,Mumbai
+78,Toyota,Urban Cruiser Hyryder,SUV,5 Seater,1368000,Petrol,Manual,Mumbai
+79,MG,Astor,SUV,5 Seater,1462000,Petrol,Manual,Mumbai
+80,Volkswagen,Taigun,SUV,5 Seater,2346000,Petrol,Automatic,Mumbai
+81,Kia,Carens,SUV,7 Seater,1559000,Diesel,Manual,Mumbai
+82,Toyota,Rumion,SUV,7 Seater,1255000,Petrol,Manual,Mumbai
+83,Kia,Seltos,SUV,5 Seater,1501000,Petrol,Manual,Mumbai
+84,Hyundai,Exter,SUV,5 Seater,984000,Petrol,Automatic,Mumbai
+85,Maruti,Suzuki Fronx,SUV,5 Seater,1376000,Petrol,Manual,Mumbai
+86,Kia,Sonet,SUV,5 Seater,1013000,Petrol,Manual,Mumbai
+87,MG,Comet EV,Hatchback,4 Seater,902000,Electric,Automatic,Mumbai
+88,Hyundai,Verna,Sedan,5 Seater,1946000,Petrol,Automatic,Mumbai
+89,Tata,Harrier,SUV,5 Seater,1911000,Diesel,Manual,Mumbai
+90,Mahindra,XUV400,SUV,5 Seater,1893000,Electric,Automatic,Mumbai
+91,MG,Hector,SUV,5 Seater,2480000,Petrol,Manual,Mumbai
+92,MG,Hector Plus,SUV,7 Seater,2715000,Petrol,Automatic,Mumbai
+93,MG,ZS EV,SUV,5 Seater,2068000,Electric,Automatic,Mumbai
+94,Volkswagen,Virtus,Sedan,5 Seater,1802000,Petrol,Automatic,Mumbai
+95,Skoda,Slavia,Sedan,5 Seater,1803000,Petrol,Automatic,Mumbai
+96,Skoda,Kushaq,SUV,5 Seater,1306000,Petrol,Manual,Mumbai
+97,Honda,Elevate,SUV,5 Seater,1829000,Petrol,Automatic,Mumbai
+98,Mahindra,XUV 3XO,SUV,5 Seater,1390000,Diesel,Manual,Mumbai
+99,Maruti,Suzuki S-Presso,SUV,5 Seater,618000,Petrol,Manual,Mumbai
+100,Hyundai,Creta N Line,SUV,5 Seater,2460000,Petrol,Automatic,Mumbai
+101,Maruti,Suzuki Ignis,Hatchback,5 Seater,867000,Petrol,Automatic,Mumbai
+102,Tata,Punch EV,SUV,5 Seater,1046000,Electric,Automatic,Mumbai
+103,Maruti,Suzuki Ciaz,Sedan,5 Seater,1095000,Petrol,Manual,Mumbai
+104,Honda,Amaze (2021-2024),Sedan,5 Seater,1168000,Petrol,Automatic,Mumbai
+105,Toyota,Urban Cruiser Taisor,SUV,5 Seater,999000,CNG,Manual,Mumbai
+106,Hyundai,i20,Hatchback,5 Seater,1179000,Petrol,Manual,Mumbai
+107,Tata,Curvv EV,SUV,5 Seater,1851000,Electric,Automatic,Mumbai
+108,Tata,Curvv,SUV,5 Seater,1318000,Petrol,Manual,Mumbai
+109,Tata,Safari,SUV,7 Seater,2762000,Diesel,Manual,Mumbai
+110,Hyundai,Alcazar,SUV,7 Seater,2554000,Petrol,Automatic,Mumbai
+111,Tata,Tiago,Hatchback,5 Seater,807000,Petrol,Automatic,Mumbai
+112,Tata,Tiago EV,Hatchback,5 Seater,1078000,Electric,Automatic,Mumbai
+113,Tata,Tigor,Compact,5 Seater,1001000,CNG,Automatic,Mumbai
+114,Tata,Nexon,SUV,5 Seater,1293000,Diesel,Manual,Chennai
+115,Tata,Punch,SUV,5 Seater,996000,Petrol,Automatic,Chennai
+116,Hyundai,Grand i10 Nios,Hatchback,5 Seater,723000,Petrol,Manual,Chennai
+117,Hyundai,Aura,Sedan,5 Seater,908000,CNG,Manual,Chennai
+118,Maruti,Suzuki Wagon R,Hatchback,5 Seater,723000,Petrol,Manual,Chennai
+119,Tata,Altroz,Hatchback,5 Seater,803999,Petrol,Manual,Chennai
+120,Hyundai,Venue,SUV,5 Seater,952000,Petrol,Manual,Chennai
+121,MG,Astor,SUV,5 Seater,1195000,Petrol,Manual,Chennai
+122,Renault,Kiger,SUV,5 Seater,721000,Petrol,Manual,Chennai
+123,Maruti,Suzuki New Grand Vitara,SUV,5 Seater,1611000,CNG,Manual,Chennai
+124,Tata,Nexon EV,SUV,5 Seater,1634000,Electric,Automatic,Chennai
+125,Hyundai,Venue N-Line,SUV,5 Seater,1638000,Petrol,Manual,Chennai
+126,Maruti,Suzuki Alto K10,Hatchback,5 Seater,654000,Petrol,Manual,Chennai
+127,Maruti,Suzuki Celerio,Hatchback,5 Seater,813000,Petrol,Automatic,Chennai
+128,Nissan,Magnite (2020-2024),SUV,5 Seater,1368000,Petrol,Automatic,Chennai
+129,Maruti,Suzuki Brezza,SUV,5 Seater,1010000,Petrol,Manual,Chennai
+130,Renault,Kwid,Hatchback,5 Seater,598000,Petrol,Manual,Chennai
+131,Hyundai,i20 N Line,Hatchback,5 Seater,1544000,Petrol,Automatic,Chennai
+132,Hyundai,Creta,SUV,5 Seater,1390000,Petrol,Manual,Chennai
+133,Renault,Triber,MPV,7 Seater,815000,Petrol,Manual,Chennai
+134,Maruti,Suzuki XL6,SUV,6 Seater,1540000,CNG,Manual,Chennai
+135,Maruti,Suzuki Ciaz,Sedan,5 Seater,1363000,Petrol,Automatic,Chennai
+136,Mahindra,XUV700,SUV,5 Seater,2075000,Petrol,Manual,Chennai
+137,Maruti,Suzuki Eeco,Minivan,5 Seater,685000,Petrol,Manual,Chennai
+138,Mahindra,Scorpio-N,SUV,7 Seater,1778000,Petrol,Manual,Chennai
+139,Hyundai,Exter,SUV,5 Seater,910000,Petrol,Manual,Chennai
+140,Maruti,Suzuki Fronx,SUV,5 Seater,1135000,Petrol,Manual,Chennai
+141,Hyundai,Verna,Sedan,5 Seater,1545000,Petrol,Manual,Chennai
+142,Kia,Seltos,SUV,5 Seater,2528000,Diesel,Automatic,Chennai
+143,Kia,Sonet,SUV,5 Seater,994999,Petrol,Manual,Chennai
+144,Kia,Carens,SUV,7 Seater,1392000,Petrol,Manual,Chennai
+145,MG,Comet EV,Hatchback,4 Seater,936999,Electric,Automatic,Chennai
+146,MG,Hector,SUV,5 Seater,1747000,Petrol,Manual,Chennai
+147,MG,Hector Plus,SUV,6 Seater,2198000,Diesel,Manual,Chennai
+148,MG,ZS EV,SUV,5 Seater,2043000,Electric,Automatic,Chennai
+149,Maruti,Suzuki S-Presso,SUV,5 Seater,622000,Petrol,Manual,Chennai
+150,Tata,Safari,SUV,6 Seater,3238000,Diesel,Manual,Chennai
+151,Hyundai,i20,Hatchback,5 Seater,1009000,Petrol,Manual,Chennai
+152,Hyundai,Creta N Line,SUV,5 Seater,2125000,Petrol,Manual,Chennai
+153,Maruti,Suzuki Baleno,Hatchback,5 Seater,986999,CNG,Manual,Chennai
+154,Tata,Punch EV,SUV,5 Seater,1363000,Electric,Automatic,Chennai
+155,Tata,Tiago,Hatchback,5 Seater,693000,Petrol,Manual,Chennai
+156,Tata,Tiago EV,Hatchback,5 Seater,952999,Electric,Automatic,Chennai
+157,Maruti,Suzuki Ignis,Hatchback,5 Seater,693000,Petrol,Manual,Chennai
+158,Mahindra,XUV 3XO,SUV,5 Seater,1581000,Petrol,Manual,Chennai
+159,Maruti,Suzuki Swift,Hatchback,5 Seater,968000,CNG,Manual,Chennai
+160,Tata,Tigor,Compact,5 Seater,810000,Petrol,Manual,Chennai
+161,Tata,Curvv EV,SUV,5 Seater,1973000,Electric,Automatic,Chennai
+162,Tata,Curvv,SUV,5 Seater,1544000,Petrol,Manual,Chennai
+163,Hyundai,Alcazar,SUV,6 Seater,2718000,Petrol,Automatic,Chennai
+164,MG,Windsor EV,SUV,5 Seater,1518000,Electric,Automatic,Chennai
+165,Maruti,Suzuki Dzire,Sedan,5 Seater,1056000,Petrol,Manual,Chennai
+166,Tata,Nexon,SUV,5 Seater,1123000,Petrol,Manual,Bangalore
+167,Tata,Punch,SUV,5 Seater,838000,Petrol,Manual,Bangalore
+168,Maruti,Suzuki Swift,Hatchback,5 Seater,1013000,Petrol,Manual,Bangalore
+169,Hyundai,Grand i10 Nios,Hatchback,5 Seater,739000,Petrol,Manual,Bangalore
+170,Hyundai,Aura,Sedan,5 Seater,928999,CNG,Manual,Bangalore
+171,Tata,Altroz,Hatchback,5 Seater,818000,Petrol,Manual,Bangalore
+172,Hyundai,Venue,SUV,5 Seater,1019999,Petrol,Manual,Bangalore
+173,Toyota,Glanza,Hatchback,5 Seater,999000,Petrol,Automatic,Bangalore
+174,Hyundai,Creta,SUV,5 Seater,1403000,Petrol,Manual,Bangalore
+175,Maruti,Suzuki Dzire,Sedan,5 Seater,1091000,Petrol,Manual,Bangalore
+176,Honda,City,Sedan,5 Seater,1639000,Petrol,Manual,Bangalore
+177,Hyundai,i20 N Line,Hatchback,5 Seater,1559000,Petrol,Automatic,Bangalore
+178,Tata,Nexon EV,SUV,5 Seater,1717000,Electric,Automatic,Bangalore
+179,Maruti,Suzuki S-Presso,SUV,5 Seater,674000,Petrol,Manual,Bangalore
+180,Mahindra,Scorpio-N,SUV,7 Seater,1764999,Petrol,Manual,Bangalore
+181,Maruti,Suzuki XL6,SUV,6 Seater,1586000,Petrol,Manual,Bangalore
+182,Hyundai,Venue N-Line,SUV,5 Seater,1525000,Petrol,Manual,Bangalore
+183,Maruti,Suzuki New Grand Vitara,SUV,5 Seater,2495000,Petrol,Automatic,Bangalore
+184,Toyota,Urban Cruiser Hyryder,SUV,5 Seater,1389000,Petrol,Manual,Bangalore
+185,Skoda,Kushaq,SUV,5 Seater,1687000,Petrol,Automatic,Bangalore
+186,Kia,Seltos,SUV,5 Seater,1955000,Petrol,Manual,Bangalore
+187,Kia,Sonet,SUV,5 Seater,1017000,Petrol,Manual,Bangalore
+188,Hyundai,Exter,SUV,5 Seater,975000,Petrol,Manual,Bangalore
+189,Maruti,Suzuki Fronx,SUV,5 Seater,1076000,Petrol,Automatic,Bangalore
+190,MG,Astor,SUV,5 Seater,1221000,Petrol,Manual,Bangalore
+191,Hyundai,Verna,Sedan,5 Seater,1813000,Petrol,Automatic,Bangalore
+192,Tata,Harrier,SUV,5 Seater,1901000,Diesel,Manual,Bangalore
+193,Mahindra,XUV400,SUV,5 Seater,1860000,Electric,Automatic,Bangalore
+194,MG,Hector,SUV,5 Seater,2330000,Diesel,Manual,Bangalore
+195,MG,Hector Plus,SUV,6 Seater,2201000,Diesel,Manual,Bangalore
+196,Toyota,Rumion,SUV,7 Seater,1300000,Petrol,Manual,Bangalore
+197,Honda,Elevate,SUV,5 Seater,1588000,Petrol,Manual,Bangalore
+198,Volkswagen,Taigun,SUV,5 Seater,1743000,Petrol,Manual,Bangalore
+199,Volkswagen,Virtus,Sedan,5 Seater,1866000,Petrol,Automatic,Bangalore
+200,Kia,Carens,SUV,7 Seater,2277000,Diesel,Manual,Bangalore
+201,Mahindra,XUV700,SUV,7 Seater,1826000,Petrol,Manual,Bangalore
+202,Skoda,Slavia,Sedan,5 Seater,1897000,Petrol,Automatic,Bangalore
+203,Maruti,Suzuki Wagon R,Hatchback,5 Seater,678000,Petrol,Manual,Bangalore
+204,Maruti,Suzuki Celerio,Hatchback,5 Seater,714000,Petrol,Manual,Bangalore
+205,Mahindra,XUV 3XO,SUV,5 Seater,1484000,Diesel,Automatic,Bangalore
+206,Maruti,Suzuki Alto K10,Hatchback,5 Seater,656000,Petrol,Manual,Bangalore
+207,Toyota,Urban Cruiser Taisor,SUV,5 Seater,1036000,Petrol,Manual,Bangalore
+208,MG,ZS EV,SUV,5 Seater,2029000,Electric,Automatic,Bangalore
+209,Maruti,Suzuki Baleno,Hatchback,5 Seater,1027999,CNG,Manual,Bangalore
+210,Hyundai,Creta N Line,SUV,5 Seater,2314000,Petrol,Automatic,Bangalore
+211,Maruti,Suzuki Ignis,Hatchback,5 Seater,718000,Petrol,Manual,Bangalore
+212,Tata,Punch EV,SUV,5 Seater,1206000,Electric,Automatic,Bangalore
+213,MG,Comet EV,Hatchback,4 Seater,889000,Electric,Automatic,Bangalore
+214,Maruti,Suzuki Ciaz,Sedan,5 Seater,1218000,Petrol,Manual,Bangalore
+215,Hyundai,i20,Hatchback,5 Seater,956000,Petrol,Manual,Bangalore
+216,Hyundai,Alcazar,SUV,7 Seater,2645000,Petrol,Automatic,Bangalore
+217,Tata,Curvv,SUV,5 Seater,1407000,Petrol,Manual,Bangalore
+218,MG,Windsor EV,SUV,5 Seater,1502000,Electric,Automatic,Bangalore
+219,Mahindra,Thar,SUV,4 Seater,2000000,Diesel,Manual,Bangalore
+220,Tata,Safari,SUV,6 Seater,2193000,Diesel,Manual,Bangalore
+221,Tata,Curvv EV,SUV,5 Seater,1980999,Electric,Automatic,Bangalore
+222,Honda,Amaze,Sedan,5 Seater,974000,Petrol,Manual,Bangalore
+223,Tata,Tiago,Hatchback,5 Seater,711000,Petrol,Manual,Bangalore
+224,Tata,Tiago EV,Hatchback,5 Seater,1098000,Electric,Automatic,Bangalore
+225,Tata,Tigor,Compact,5 Seater,1049000,Petrol,Manual,Bangalore
+226,Tata,Nexon,SUV,5 Seater,902999,Petrol,Manual,Delhi
+227,Tata,Curvv EV,SUV,5 Seater,2037000,Electric,Automatic,Delhi
+228,Maruti,Suzuki Baleno,Hatchback,5 Seater,943000,Petrol,Manual,Delhi
+229,Tata,Punch,SUV,5 Seater,827999,CNG,Manual,Delhi
+230,Maruti,Suzuki Swift,Hatchback,5 Seater,916000,CNG,Manual,Delhi
+231,Hyundai,Grand i10 Nios,Hatchback,5 Seater,674000,Petrol,Manual,Delhi
+232,Hyundai,Aura,Sedan,5 Seater,865000,CNG,Manual,Delhi
+233,Maruti,Suzuki Wagon R,Hatchback,5 Seater,739000,Petrol,Automatic,Delhi
+234,Tata,Altroz,Hatchback,5 Seater,755000,Petrol,Manual,Delhi
+235,Maruti,Suzuki Celerio,Hatchback,5 Seater,761000,CNG,Manual,Delhi
+236,Honda,City,Sedan,5 Seater,1431000,Petrol,Manual,Delhi
+237,Hyundai,Creta,SUV,5 Seater,1303000,Petrol,Manual,Delhi
+238,Maruti,Suzuki Ciaz,Sedan,5 Seater,1196000,Petrol,Manual,Delhi
+239,Renault,Kiger,SUV,5 Seater,673000,Petrol,Manual,Delhi
+240,Renault,Triber,MPV,7 Seater,673000,Petrol,Manual,Delhi
+241,Renault,Kwid,Hatchback,5 Seater,565000,Petrol,Manual,Delhi
+242,Tata,Nexon EV,SUV,5 Seater,1568000,Electric,Automatic,Delhi
+243,Hyundai,i20 N Line,Hatchback,5 Seater,1130000,Petrol,Manual,Delhi
+244,Toyota,Glanza,Hatchback,5 Seater,880000,Petrol,Manual,Delhi
+245,Nissan,Magnite (2020-2024),SUV,5 Seater,858000,Petrol,Automatic,Delhi
+246,Maruti,Suzuki XL6,SUV,6 Seater,1341000,Petrol,Manual,Delhi
+247,Hyundai,Venue,SUV,5 Seater,1047000,Petrol,Manual,Delhi
+248,Maruti,Suzuki Brezza,SUV,5 Seater,1103000,Petrol,Manual,Delhi
+249,Maruti,Suzuki Alto K10,Hatchback,5 Seater,550000,Petrol,Manual,Delhi
+250,Hyundai,Venue N-Line,SUV,5 Seater,1415000,Petrol,Manual,Delhi
+251,Maruti,Suzuki New Grand Vitara,SUV,5 Seater,2356000,Petrol,Automatic,Delhi
+252,Mahindra,Scorpio-N,SUV,7 Seater,2061000,Petrol,Automatic,Delhi
+253,Mahindra,XUV700,SUV,7 Seater,1830000,Diesel,Manual,Delhi
+254,Maruti,Suzuki Eeco,Minivan,5 Seater,643000,Petrol,Manual,Delhi
+255,Kia,Carens,SUV,7 Seater,1391000,Petrol,Manual,Delhi
+256,Toyota,Urban Cruiser Hyryder,SUV,5 Seater,1478000,Petrol,Manual,Delhi
+257,Honda,Elevate,SUV,5 Seater,1795000,Petrol,Automatic,Delhi
+258,Toyota,Rumion,SUV,7 Seater,1322000,CNG,Manual,Delhi
+259,MG,ZS EV,SUV,5 Seater,2010000,Electric,Automatic,Delhi
+260,MG,Hector Plus,SUV,6 Seater,2072000,Diesel,Manual,Delhi
+261,MG,Hector,SUV,5 Seater,1613000,Petrol,Manual,Delhi
+262,MG,Comet EV,Hatchback,4 Seater,974000,Electric,Automatic,Delhi
+263,MG,Astor,SUV,5 Seater,1408000,Petrol,Manual,Delhi
+264,Kia,Sonet,SUV,5 Seater,1839000,Diesel,Automatic,Delhi
+265,Kia,Seltos,SUV,5 Seater,1819000,Petrol,Manual,Delhi
+266,Skoda,Slavia,Sedan,5 Seater,1630000,Petrol,Manual,Delhi
+267,Skoda,Kushaq,SUV,5 Seater,2189000,Petrol,Automatic,Delhi
+268,Hyundai,Exter,SUV,5 Seater,755000,Petrol,Manual,Delhi
+269,Maruti,Suzuki Fronx,SUV,5 Seater,977000,Petrol,Manual,Delhi
+270,Hyundai,Verna,Sedan,5 Seater,1905999,Petrol,Automatic,Delhi
+271,Tata,Harrier,SUV,5 Seater,2057999,Diesel,Manual,Delhi
+272,Mahindra,Scorpio Classic,SUV,7 Seater,2133000,Diesel,Manual,Delhi
+273,Hyundai,i20,Hatchback,5 Seater,1068000,Petrol,Manual,Delhi
+274,Tata,Punch EV,SUV,5 Seater,1250000,Electric,Automatic,Delhi
+275,Mahindra,XUV400,SUV,5 Seater,2070000,Electric,Automatic,Delhi
+276,Mahindra,XUV 3XO,SUV,5 Seater,1349000,Petrol,Manual,Delhi
+277,Toyota,Urban Cruiser Taisor,SUV,5 Seater,965000,Petrol,Manual,Delhi
+278,Maruti,Suzuki Ignis,Hatchback,5 Seater,641000,Petrol,Manual,Delhi
+279,Hyundai,Creta N Line,SUV,5 Seater,1972000,Petrol,Manual,Delhi
+280,Maruti,Suzuki S-Presso,SUV,5 Seater,578000,Petrol,Manual,Delhi
+281,Tata,Safari,SUV,7 Seater,3010000,Diesel,Automatic,Delhi
+282,Tata,Curvv,SUV,5 Seater,1465000,Petrol,Automatic,Delhi
+283,Tata,Tiago,Hatchback,5 Seater,560000,Petrol,Manual,Delhi
+284,Tata,Tiago EV,Hatchback,5 Seater,946000,Electric,Automatic,Delhi
+285,Tata,Tigor,Compact,5 Seater,869999,CNG,Manual,Delhi
+286,Hyundai,Creta Electric,SUV,5 Seater,2583000,Electric,Automatic,Delhi
+287,Hyundai,Alcazar,SUV,7 Seater,1767000,Petrol,Manual,Delhi
+288,Nissan,Magnite,SUV,5 Seater,819000,Petrol,Manual,Delhi
+289,Maruti,Suzuki Dzire,Sedan,5 Seater,876000,Petrol,Manual,Delhi
+290,Honda,Amaze,Sedan,5 Seater,917000,Petrol,Manual,Delhi
+291,Tata,Nexon,SUV,5 Seater,1250000,Petrol,Manual,Gurgaon
+292,Tata,Curvv EV,SUV,5 Seater,2187000,Electric,Automatic,Gurgaon
+293,Maruti,Suzuki Baleno,Hatchback,5 Seater,919000,Petrol,Automatic,Gurgaon
+294,Tata,Punch,SUV,5 Seater,830000,CNG,Manual,Gurgaon
+295,Hyundai,Grand i10 Nios,Hatchback,5 Seater,667000,Petrol,Manual,Gurgaon
+296,Hyundai,Aura,Sedan,5 Seater,1030000,CNG,Manual,Gurgaon
+297,Maruti,Suzuki Wagon R,Hatchback,5 Seater,621000,Petrol,Manual,Gurgaon
+298,Maruti,Suzuki Swift,Hatchback,5 Seater,930000,CNG,Manual,Gurgaon
+299,Tata,Altroz,Hatchback,5 Seater,757000,Petrol,Manual,Gurgaon
+300,Renault,Kiger,SUV,5 Seater,678000,Petrol,Manual,Gurgaon
+301,Hyundai,Creta,SUV,5 Seater,1257000,Petrol,Manual,Gurgaon
+302,Renault,Triber,MPV,7 Seater,677000,Petrol,Manual,Gurgaon
+303,Renault,Kwid,Hatchback,5 Seater,568000,Petrol,Manual,Gurgaon
+304,Honda,City,Sedan,5 Seater,1405000,Petrol,Manual,Gurgaon
+305,Maruti,Suzuki Ciaz,Sedan,5 Seater,1051000,Petrol,Manual,Gurgaon
+306,Toyota,Glanza,Hatchback,5 Seater,883000,Petrol,Manual,Gurgaon
+307,Hyundai,i20 N Line,Hatchback,5 Seater,1122000,Petrol,Manual,Gurgaon
+308,Tata,Nexon EV,SUV,5 Seater,1707000,Electric,Automatic,Gurgaon
+309,Maruti,Suzuki XL6,SUV,6 Seater,1646000,Petrol,Automatic,Gurgaon
+310,Nissan,Magnite (2020-2024),SUV,5 Seater,861000,Petrol,Automatic,Gurgaon
+311,Maruti,Suzuki Celerio,Hatchback,5 Seater,592000,Petrol,Manual,Gurgaon
+312,Maruti,Suzuki Brezza,SUV,5 Seater,1449000,Petrol,Manual,Gurgaon
+313,Maruti,Suzuki Alto K10,Hatchback,5 Seater,546000,Petrol,Manual,Gurgaon
+314,Hyundai,Venue N-Line,SUV,5 Seater,1372000,Petrol,Manual,Gurgaon
+315,Maruti,Suzuki New Grand Vitara,SUV,5 Seater,1531000,CNG,Manual,Gurgaon
+316,Hyundai,Venue,SUV,5 Seater,1040000,Petrol,Manual,Gurgaon
+317,Maruti,Suzuki Eeco,Minivan,5 Seater,635000,Petrol,Manual,Gurgaon
+318,Kia,Sonet,SUV,5 Seater,1764999,Diesel,Automatic,Gurgaon
+319,Kia,Seltos,SUV,5 Seater,1782000,Petrol,Manual,Gurgaon
+320,Toyota,Rumion,SUV,7 Seater,1300000,CNG,Manual,Gurgaon
+321,Kia,Carens,SUV,7 Seater,1363000,Petrol,Manual,Gurgaon
+322,Honda,Elevate,SUV,5 Seater,1763000,Petrol,Automatic,Gurgaon
+323,Toyota,Urban Cruiser Hyryder,SUV,5 Seater,1461000,Petrol,Manual,Gurgaon
+324,Skoda,Slavia,Sedan,5 Seater,1598000,Petrol,Manual,Gurgaon
+325,Skoda,Kushaq,SUV,5 Seater,2153000,Petrol,Automatic,Gurgaon
+326,Hyundai,Exter,SUV,5 Seater,748000,Petrol,Manual,Gurgaon
+327,Maruti,Suzuki Fronx,SUV,5 Seater,961000,CNG,Manual,Gurgaon
+328,Hyundai,Verna,Sedan,5 Seater,1841000,Petrol,Automatic,Gurgaon
+329,Tata,Harrier,SUV,5 Seater,1973999,Diesel,Manual,Gurgaon
+330,MG,Astor,SUV,5 Seater,1380000,Petrol,Manual,Gurgaon
+331,Tata,Punch EV,SUV,5 Seater,1471000,Electric,Automatic,Gurgaon
+332,Tata,Safari,SUV,7 Seater,3094000,Diesel,Automatic,Gurgaon
+333,Mahindra,XUV700,SUV,7 Seater,2202000,Petrol,Automatic,Gurgaon
+334,Mahindra,XUV 3XO,SUV,5 Seater,1185000,Diesel,Manual,Gurgaon
+335,Mahindra,Scorpio-N,SUV,6 Seater,2212000,Diesel,Automatic,Gurgaon
+336,Maruti,Suzuki Ignis,Hatchback,5 Seater,650000,Petrol,Manual,Gurgaon
+337,MG,Hector,SUV,5 Seater,1583000,Petrol,Manual,Gurgaon
+338,Mahindra,Scorpio Classic,SUV,7 Seater,2048999,Diesel,Manual,Gurgaon
+339,Tata,Curvv,SUV,5 Seater,1435000,Petrol,Automatic,Gurgaon
+340,Hyundai,i20,Hatchback,5 Seater,1060000,Petrol,Manual,Gurgaon
+341,MG,ZS EV,SUV,5 Seater,2159000,Electric,Automatic,Gurgaon
+342,Maruti,Suzuki S-Presso,SUV,5 Seater,629000,Petrol,Automatic,Gurgaon
+343,MG,Hector Plus,SUV,6 Seater,1989999,Diesel,Manual,Gurgaon
+344,MG,Comet EV,Hatchback,4 Seater,1044999,Electric,Automatic,Gurgaon
+345,Hyundai,Creta N Line,SUV,5 Seater,1904000,Petrol,Manual,Gurgaon
+346,Toyota,Urban Cruiser Taisor,SUV,5 Seater,980000,Petrol,Manual,Gurgaon
+347,Hyundai,Creta Electric,SUV,5 Seater,2611000,Electric,Automatic,Gurgaon
+348,Tata,Tiago,Hatchback,5 Seater,561000,Petrol,Manual,Gurgaon
+349,Hyundai,Alcazar,SUV,7 Seater,1688000,Petrol,Manual,Gurgaon
+350,Nissan,Magnite,SUV,5 Seater,824000,Petrol,Manual,Gurgaon
+351,Maruti,Suzuki Dzire,Sedan,5 Seater,990000,CNG,Manual,Gurgaon
+352,Honda,Amaze,Sedan,5 Seater,926000,Petrol,Manual,Gurgaon
+353,Tata,Nexon,SUV,5 Seater,1050000,Petrol,Manual,Pune
+354,Maruti,Suzuki Baleno,Hatchback,5 Seater,1073000,CNG,Manual,Pune
+355,Tata,Curvv EV,SUV,5 Seater,1877000,Electric,Automatic,Pune
+356,Hyundai,Grand i10 Nios,Hatchback,5 Seater,886000,Petrol,Manual,Pune
+357,Hyundai,Aura,Sedan,5 Seater,881000,Petrol,Manual,Pune
+358,Tata,Altroz,Hatchback,5 Seater,1018000,Petrol,Automatic,Pune
+359,Hyundai,Venue,SUV,5 Seater,944999,Petrol,Manual,Pune
+360,Hyundai,Creta,SUV,5 Seater,1923000,Petrol,Manual,Pune
+361,Honda,City,Sedan,5 Seater,1700000,Petrol,Automatic,Pune
+362,Maruti,Suzuki Dzire (2020-2024),Sedan,5 Seater,1121000,Petrol,Automatic,Pune
+363,Renault,Kiger,SUV,5 Seater,1034000,Petrol,Manual,Pune
+364,Hyundai,i20 N Line,Hatchback,5 Seater,1371000,Petrol,Manual,Pune
+365,Renault,Triber,MPV,7 Seater,1027999,Petrol,Automatic,Pune
+366,Tata,Nexon EV,SUV,5 Seater,1616000,Electric,Automatic,Pune
+367,Maruti,Suzuki New Grand Vitara,SUV,5 Seater,1322000,Petrol,Manual,Pune
+368,Hyundai,Venue N-Line,SUV,5 Seater,1648000,Petrol,Automatic,Pune
+369,Honda,Amaze (2021-2024),Sedan,5 Seater,1156000,Petrol,Automatic,Pune
+370,Maruti,Suzuki XL6,SUV,6 Seater,1458000,CNG,Manual,Pune
+371,Maruti,Suzuki Wagon R,Hatchback,5 Seater,677000,Petrol,Manual,Pune
+372,Skoda,Slavia,Sedan,5 Seater,1904000,Petrol,Manual,Pune
+373,Skoda,Kushaq,SUV,5 Seater,1845000,Petrol,Manual,Pune
+374,Honda,Elevate,SUV,5 Seater,1667000,Petrol,Automatic,Pune
+375,Hyundai,Exter,SUV,5 Seater,902999,Petrol,Manual,Pune
+376,Maruti,Suzuki Fronx,SUV,5 Seater,969999,CNG,Manual,Pune
+377,Hyundai,Verna,Sedan,5 Seater,1954000,Petrol,Automatic,Pune
+378,Tata,Harrier,SUV,5 Seater,2055000,Diesel,Manual,Pune
+379,MG,Astor,SUV,5 Seater,1164000,Petrol,Manual,Pune
+380,Tata,Punch EV,SUV,5 Seater,1206000,Electric,Automatic,Pune
+381,Tata,Safari,SUV,6 Seater,2683000,Diesel,Manual,Pune
+382,Maruti,Suzuki Alto K10,Hatchback,5 Seater,682000,CNG,Manual,Pune
+383,Tata,Curvv,SUV,5 Seater,1481000,Petrol,Manual,Pune
+384,Maruti,Suzuki Ignis,Hatchback,5 Seater,832000,Petrol,Manual,Pune
+385,MG,Hector,SUV,5 Seater,1975000,Petrol,Manual,Pune
+386,Maruti,Suzuki Celerio,Hatchback,5 Seater,678000,Petrol,Manual,Pune
+387,Hyundai,i20,Hatchback,5 Seater,927999,Petrol,Manual,Pune
+388,MG,ZS EV,SUV,5 Seater,2025000,Electric,Automatic,Pune
+389,Maruti,Suzuki Ciaz,Sedan,5 Seater,1117000,Petrol,Manual,Pune
+390,Maruti,Suzuki S-Presso,SUV,4 Seater,603000,Petrol,Manual,Pune
+391,MG,Hector Plus,SUV,7 Seater,2119000,Diesel,Manual,Pune
+392,Maruti,Suzuki Swift,Hatchback,5 Seater,780000,Petrol,Manual,Pune
+393,MG,Comet EV,Hatchback,4 Seater,857000,Electric,Automatic,Pune
+394,Maruti,Suzuki Jimny,SUV,4 Seater,1528000,Petrol,Manual,Pune
+395,Hyundai,Creta N Line,SUV,5 Seater,2319000,Petrol,Manual,Pune
+396,Tata,Tiago,Hatchback,5 Seater,694000,Petrol,Manual,Pune
+397,Tata,Tiago EV,Hatchback,5 Seater,1089000,Electric,Automatic,Pune
+398,Tata,Tigor,Compact,5 Seater,885000,CNG,Manual,Pune
+399,Hyundai,Creta Electric,SUV,5 Seater,2238000,Electric,Automatic,Pune
+400,Hyundai,Alcazar,SUV,7 Seater,2530000,Petrol,Automatic,Pune
+401,Tata,Punch,SUV,5 Seater,896000,Petrol,Manual,Pune
+402,Maruti,Suzuki Dzire,Sedan,5 Seater,1008000,CNG,Manual,Pune
+403,Honda,Amaze,Sedan,5 Seater,942000,Petrol,Manual,Pune
+404,Tata,Nexon,SUV,5 Seater,907000,Petrol,Manual,Ghaziabad
+405,Maruti,Suzuki Baleno,Hatchback,5 Seater,965000,Petrol,Manual,Ghaziabad
+406,Tata,Punch,SUV,5 Seater,852000,Petrol,Manual,Ghaziabad
+407,Hyundai,Grand i10 Nios,Hatchback,5 Seater,684000,Petrol,Manual,Ghaziabad
+408,Hyundai,Aura,Sedan,5 Seater,923000,Petrol,Manual,Ghaziabad
+409,Maruti,Suzuki Wagon R,Hatchback,5 Seater,626000,Petrol,Manual,Ghaziabad
+410,Maruti,Suzuki Swift,Hatchback,5 Seater,1013000,Petrol,Manual,Ghaziabad
+411,Tata,Altroz,Hatchback,5 Seater,756000,Petrol,Manual,Ghaziabad
+412,Maruti,Suzuki Celerio,Hatchback,5 Seater,606000,Petrol,Manual,Ghaziabad
+413,Hyundai,Creta,SUV,5 Seater,1279000,Petrol,Manual,Ghaziabad
+414,Renault,Triber,MPV,7 Seater,695000,Petrol,Manual,Ghaziabad
+415,Renault,Kwid,Hatchback,5 Seater,582000,Petrol,Manual,Ghaziabad
+416,Maruti,Suzuki Ciaz,Sedan,5 Seater,1209000,Petrol,Manual,Ghaziabad
+417,Renault,Kiger,SUV,5 Seater,695000,Petrol,Manual,Ghaziabad
+418,Maruti,Suzuki XL6,SUV,6 Seater,1335000,Petrol,Manual,Ghaziabad
+419,Toyota,Glanza,Hatchback,5 Seater,883000,Petrol,Manual,Ghaziabad
+420,Hyundai,i20 N Line,Hatchback,5 Seater,1121000,Petrol,Manual,Ghaziabad
+421,Nissan,Magnite (2020-2024),SUV,5 Seater,865000,Petrol,Automatic,Ghaziabad
+422,Honda,City,Sedan,5 Seater,1429000,Petrol,Manual,Ghaziabad
+423,Hyundai,Venue N-Line,SUV,5 Seater,1395000,Petrol,Manual,Ghaziabad
+424,Maruti,Suzuki New Grand Vitara,SUV,5 Seater,2361000,Petrol,Automatic,Ghaziabad
+425,Hyundai,Venue,SUV,5 Seater,900000,Petrol,Manual,Ghaziabad
+426,Skoda,Kushaq,SUV,5 Seater,2185000,Petrol,Automatic,Ghaziabad
+427,Toyota,Rumion,SUV,7 Seater,1321000,CNG,Manual,Ghaziabad
+428,Honda,Elevate,SUV,5 Seater,1794000,Petrol,Automatic,Ghaziabad
+429,Hyundai,Exter,SUV,5 Seater,686000,Petrol,Manual,Ghaziabad
+430,Maruti,Suzuki Fronx,SUV,5 Seater,992000,Petrol,Manual,Ghaziabad
+431,Hyundai,Verna,Sedan,5 Seater,1510000,Petrol,Manual,Ghaziabad
+432,Tata,Harrier,SUV,5 Seater,2009000,Diesel,Manual,Ghaziabad
+433,Toyota,Urban Cruiser Hyryder,SUV,5 Seater,1474000,Petrol,Manual,Ghaziabad
+434,Kia,Sonet,SUV,5 Seater,1820000,Diesel,Automatic,Ghaziabad
+435,Kia,Seltos,SUV,5 Seater,1839000,Petrol,Manual,Ghaziabad
+436,Kia,Carens,SUV,7 Seater,1398000,Petrol,Manual,Ghaziabad
+437,Skoda,Slavia,Sedan,5 Seater,1598000,Petrol,Manual,Ghaziabad
+438,Hyundai,i20,Hatchback,5 Seater,883000,Petrol,Manual,Ghaziabad
+439,Tata,Safari,SUV,7 Seater,2941000,Diesel,Automatic,Ghaziabad
+440,Maruti,Suzuki S-Presso,SUV,5 Seater,640000,Petrol,Automatic,Ghaziabad
+441,Maruti,Suzuki Ignis,Hatchback,5 Seater,670000,Petrol,Manual,Ghaziabad
+442,MG,ZS EV,SUV,5 Seater,2198000,Electric,Automatic,Ghaziabad
+443,Hyundai,Creta N Line,SUV,5 Seater,1937000,Petrol,Manual,Ghaziabad
+444,Tata,Tiago,Hatchback,5 Seater,720000,Petrol,Manual,Ghaziabad
+445,Toyota,Urban Cruiser Taisor,SUV,5 Seater,971000,Petrol,Manual,Ghaziabad
+446,Tata,Tigor,Compact,5 Seater,874000,CNG,Manual,Ghaziabad
+447,Tata,Curvv,SUV,5 Seater,1459000,Petrol,Automatic,Ghaziabad
+448,Hyundai,Creta Electric,SUV,5 Seater,2574000,Electric,Automatic,Ghaziabad
+449,Hyundai,Alcazar,SUV,7 Seater,1717000,Petrol,Manual,Ghaziabad
+450,Nissan,Magnite,SUV,5 Seater,824000,Petrol,Manual,Ghaziabad
+451,Honda,Amaze,Sedan,5 Seater,926000,Petrol,Manual,Ghaziabad
+452,Tata,Nexon,SUV,5 Seater,907000,Petrol,Manual,Noida
+453,Maruti,Suzuki Baleno,Hatchback,5 Seater,965000,Petrol,Manual,Noida
+454,Tata,Punch,SUV,5 Seater,852000,Petrol,Manual,Noida
+455,Hyundai,Grand i10 Nios,Hatchback,5 Seater,684000,Petrol,Manual,Noida
+456,Hyundai,Aura,Sedan,5 Seater,923000,Petrol,Manual,Noida
+457,Maruti,Suzuki Wagon R,Hatchback,5 Seater,626000,Petrol,Manual,Noida
+458,Maruti,Suzuki Swift,Hatchback,5 Seater,1013000,Petrol,Manual,Noida
+459,Tata,Altroz,Hatchback,5 Seater,756000,Petrol,Manual,Noida
+460,Maruti,Suzuki Celerio,Hatchback,5 Seater,606000,Petrol,Manual,Noida
+461,Hyundai,Creta,SUV,5 Seater,1279000,Petrol,Manual,Noida
+462,Renault,Triber,MPV,7 Seater,695000,Petrol,Manual,Noida
+463,Renault,Kwid,Hatchback,5 Seater,582000,Petrol,Manual,Noida
+464,Maruti,Suzuki Ciaz,Sedan,5 Seater,1209000,Petrol,Manual,Noida
+465,Renault,Kiger,SUV,5 Seater,695000,Petrol,Manual,Noida
+466,Toyota,Glanza,Hatchback,5 Seater,883000,Petrol,Manual,Noida
+467,Hyundai,i20 N Line,Hatchback,5 Seater,1121000,Petrol,Manual,Noida
+468,Nissan,Magnite (2020-2024),SUV,5 Seater,865000,Petrol,Automatic,Noida
+469,Honda,City,Sedan,5 Seater,1429000,Petrol,Manual,Noida
+470,Hyundai,Venue N-Line,SUV,5 Seater,1395000,Petrol,Manual,Noida
+471,Maruti,Suzuki New Grand Vitara,SUV,5 Seater,2361000,Petrol,Automatic,Noida
+472,Hyundai,Venue,SUV,5 Seater,900000,Petrol,Manual,Noida
+473,Hyundai,Verna,Sedan,5 Seater,1510000,Petrol,Manual,Noida
+474,Tata,Harrier,SUV,5 Seater,2009000,Diesel,Manual,Noida
+475,Hyundai,Exter,SUV,5 Seater,686000,Petrol,Manual,Noida
+476,Toyota,Rumion,SUV,7 Seater,1321000,CNG,Manual,Noida
+477,Kia,Sonet,SUV,5 Seater,1820000,Diesel,Automatic,Noida
+478,Kia,Seltos,SUV,5 Seater,1839000,Petrol,Manual,Noida
+479,Honda,Elevate,SUV,5 Seater,1794000,Petrol,Automatic,Noida
+480,Kia,Carens,SUV,7 Seater,1398000,Petrol,Manual,Noida
+481,Toyota,Urban Cruiser Hyryder,SUV,5 Seater,1474000,Petrol,Manual,Noida
+482,Skoda,Slavia,Sedan,5 Seater,1598000,Petrol,Manual,Noida
+483,Skoda,Kushaq,SUV,5 Seater,2185000,Petrol,Automatic,Noida
+484,Maruti,Suzuki Fronx,SUV,5 Seater,992000,Petrol,Manual,Noida
+485,Tata,Safari,SUV,7 Seater,2941000,Diesel,Automatic,Noida
+486,Hyundai,i20,Hatchback,5 Seater,883000,Petrol,Manual,Noida
+487,Maruti,Suzuki S-Presso,SUV,5 Seater,640000,Petrol,Automatic,Noida
+488,Maruti,Suzuki Ignis,Hatchback,5 Seater,670000,Petrol,Manual,Noida
+489,MG,ZS EV,SUV,5 Seater,2198000,Electric,Automatic,Noida
+490,Hyundai,Creta N Line,SUV,5 Seater,1937000,Petrol,Manual,Noida
+491,Tata,Tiago,Hatchback,5 Seater,720000,Petrol,Manual,Noida
+492,Toyota,Urban Cruiser Taisor,SUV,5 Seater,971000,Petrol,Manual,Noida
+493,Tata,Tigor,Compact,5 Seater,874000,CNG,Manual,Noida
+494,Maruti,Suzuki XL6,SUV,6 Seater,1335000,Petrol,Manual,Noida
+495,Tata,Curvv,SUV,5 Seater,1459000,Petrol,Automatic,Noida
+496,Hyundai,Creta Electric,SUV,5 Seater,2574000,Electric,Automatic,Noida
+497,Hyundai,Alcazar,SUV,7 Seater,1717000,Petrol,Manual,Noida
+498,Nissan,Magnite,SUV,5 Seater,824000,Petrol,Manual,Noida
+499,Honda,Amaze,Sedan,5 Seater,926000,Petrol,Manual,Noida
+500,Hyundai,Aura,Sedan,5 Seater,871000,CNG,Manual,Jaipur
+501,Hyundai,Creta,SUV,5 Seater,1823000,Petrol,Manual,Jaipur
+502,Hyundai,Exter,SUV,5 Seater,910000,Petrol,Manual,Jaipur
+503,Hyundai,Grand i10 Nios,Hatchback,5 Seater,900000,Petrol,Automatic,Jaipur
+504,Hyundai,i20,Hatchback,5 Seater,917000,Petrol,Manual,Jaipur
+505,Hyundai,Venue,SUV,5 Seater,1312000,Petrol,Manual,Jaipur
+506,Hyundai,Verna,Sedan,5 Seater,1559000,Petrol,Manual,Jaipur
+507,Maruti,Suzuki Baleno,Hatchback,5 Seater,865000,Petrol,Manual,Jaipur
+508,Maruti,Suzuki Celerio,Hatchback,5 Seater,703000,Petrol,Manual,Jaipur
+509,Maruti,Suzuki Ciaz,Sedan,5 Seater,1088000,Petrol,Manual,Jaipur
+510,Maruti,Suzuki Eeco,Minivan,5 Seater,650000,Petrol,Manual,Jaipur
+511,Maruti,Suzuki Fronx,SUV,5 Seater,867000,Petrol,Manual,Jaipur
+512,Maruti,Suzuki Ignis,Hatchback,5 Seater,678000,Petrol,Manual,Jaipur
+513,Maruti,Suzuki New Grand Vitara,SUV,5 Seater,1734000,CNG,Manual,Jaipur
+514,Maruti,Suzuki Swift,Hatchback,5 Seater,749000,Petrol,Manual,Jaipur
+515,Maruti,Suzuki Wagon R,Hatchback,5 Seater,689000,Petrol,Manual,Jaipur
+516,Maruti,Suzuki XL6,SUV,6 Seater,1460000,CNG,Manual,Jaipur
+517,Tata,Altroz,Hatchback,5 Seater,772000,Petrol,Manual,Jaipur
+518,Tata,Harrier,SUV,5 Seater,2270000,Diesel,Manual,Jaipur
+519,Tata,Curvv,SUV,5 Seater,1613000,Petrol,Manual,Jaipur
+520,Tata,Curvv EV,SUV,5 Seater,1860000,Electric,Automatic,Jaipur
+521,Tata,Nexon,SUV,5 Seater,1031000,Petrol,Manual,Jaipur
+522,Tata,Nexon EV,SUV,5 Seater,1604000,Electric,Automatic,Jaipur
+523,Tata,Punch,SUV,5 Seater,723000,Petrol,Manual,Jaipur
+524,Tata,Punch EV,SUV,5 Seater,1057000,Electric,Automatic,Jaipur
+525,Tata,Safari,SUV,6 Seater,1867000,Diesel,Manual,Jaipur
